@@ -1,6 +1,5 @@
-La Datcha — Campagne Chic v2
+LA DATCHA — version complète
 
-Events page: evenements.html is a DRAFT. The navigation item and carousel slide are hidden by default.
-When an actual event is confirmed, edit evenements.html, remove its noindex tag, and set EVENTS_PUBLISHED=true in index.html.
-Do not publish private addresses, phone numbers, access codes or Wi-Fi passwords.
-Booking and Airbnb links still need real URLs.
+Publier sur GitHub Pages : téléverser index.html et le dossier images/ en conservant les noms et chemins. Garder evenements.html existant. Ne pas téléverser le ZIP tel quel dans le dépôt.
+
+Le site ne publie ni adresse exacte ni coordonnées privées. Réservations exclusivement via Booking.com et Airbnb. Vérifier la capacité maximale et les équipements avant publication.
